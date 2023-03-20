@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokeApi/static/css/main.073c9b0a.css",
+    "main.js": "/pokeApi/static/js/main.fa6ff498.js",
+    "static/js/787.31b5add8.chunk.js": "/pokeApi/static/js/787.31b5add8.chunk.js",
+    "static/media/logo.svg": "/pokeApi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pokeApi/index.html",
+    "main.073c9b0a.css.map": "/pokeApi/static/css/main.073c9b0a.css.map",
+    "main.fa6ff498.js.map": "/pokeApi/static/js/main.fa6ff498.js.map",
+    "787.31b5add8.chunk.js.map": "/pokeApi/static/js/787.31b5add8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fa6ff498.js"
+  ]
+}
