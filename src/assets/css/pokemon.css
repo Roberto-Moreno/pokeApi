@@ -1,0 +1,57 @@
+.peque {
+    width: 70%;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+.errores{
+    color: red;
+}
+.letra {
+    padding: 0px 0px 0px 40px;
+    font-weight: 500;
+    font-size: 25px;
+    margin: 0px 0px 25px 0px;
+    text-align: left;
+}
+.mi-clase{
+    text-decoration: none;
+    font-size: 30px;
+    color: white !important;
+    margin: 0px 10px 0px 0px;
+}
+
+.active {
+    font-size: 30px;
+    color: red !important;
+    text-decoration: none;
+    margin: 0px 10px 0px 0px;
+}
+
+a {
+    font-size: 30px;
+    color: white;
+}
+
+.letra_simple {
+    font-size: 30px;
+}
+
+.card-transparent2 {
+    background-image: url("../img/pokeCard1.jpg");
+    background-size: cover;
+}
+
+.card-transparent4 {
+    background-image: url("../img/pokeCard2.jpg");
+    background-size: auto;
+    
+}
+
+.card-transparent5 {
+    background-image: url("../img/pokeSelector.png");
+    background-size: cover;
+}
+
+.imagen_home {
+    min-width: 30%;
+}
